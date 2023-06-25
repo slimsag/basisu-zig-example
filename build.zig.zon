@@ -1,0 +1,11 @@
+.{
+    .name = "basisu-zig-example",
+    .version = "0.0.0",
+
+    .dependencies = .{
+        .basisu_zig = .{
+            .url = "https://github.com/slimsag/basisu-zig/archive/62a1ebd9c54c79f5d161c90991daeb651e139217.tar.gz",
+            .hash = "12200bdea6e7fd8d55b7d7bed76a47674e1e866be1057f3cd656f72dad98d6328862",
+        },
+    },
+}
